@@ -4,6 +4,4 @@
 
 [node name="CharacterBody2D" type="CharacterBody2D" parent="." unique_id=578061764]
 
-[node name="StaticBody2D" type="StaticBody2D" parent="CharacterBody2D" unique_id=1966699480]
-
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1935854892]
