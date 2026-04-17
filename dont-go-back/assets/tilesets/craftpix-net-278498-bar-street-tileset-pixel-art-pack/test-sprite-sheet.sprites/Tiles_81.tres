@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" format=3 uid="uid://cx8li5kdniq52"]
+
+[ext_resource type="Texture2D" uid="uid://s8rh343lnh6l" path="res://assets/tilesets/craftpix-net-278498-bar-street-tileset-pixel-art-pack/test-sprite-sheet.png" id="1_6qgr5"]
+
+[resource]
+atlas = ExtResource("1_6qgr5")
+region = Rect2(32, 1283, 32, 32)
